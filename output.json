@@ -1,0 +1,6 @@
+[
+{"name": "alpha", "age": "24", "gender": "M", "height": "172", "weight": "76"},
+{"name": "beta", "age": "26", "gender": "F", "height": "158", "weight": "65"},
+{"name": "gamma", "age": "22", "gender": "M", "height": "164", "weight": "70"},
+{"name": "delta", "age": "25", "gender": "F", "height": "154", "weight": "58"}
+]
