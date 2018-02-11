@@ -10,12 +10,15 @@ This is a program written to showcase implementation of 'fast-csv' with CoffeeSc
 ## Usage
 
 CofeeScript with 'fast-csv' implementation
-`npm run-script dev`
+`npm start`
 
 Pure NodeJS implementation
 `npm run-script dev`
 
-**Note** This is my first open source contribution as well as my first experience with NodeJS and CoffeeScript.
+For just building the output directory
+`npm run-script build`
+
+**Note**: This is my first open source contribution as well as my first experience with NodeJS and CoffeeScript.
 
 ## References
 
@@ -26,4 +29,4 @@ MIT <https://github.com/C2FO/fast-csv/raw/master/LICENSE>
 ## Meta
 * Code: `git clone https://github.com/echoabhishek/csv-to-json.git`
 * Website: <https://echoabhishek.github.io/>
-* Twitter: [https://twitter.com/echo_abhi](https://twitter.com/echo_abhi) - 877.465.4045
+* Twitter: [https://twitter.com/echo_abhi](https://twitter.com/echo_abhi)
